@@ -62,4 +62,4 @@ Placez votre code dans un fichier nommé `Reactor.js`, et veuillez
 exporter toutes les classes de votre programme. Il vous est interdit de
 modifier les autre fichiers du dépôt.
 
-[Classroom]: TODO
+[Classroom]: https://classroom.github.com/a/jplPHCqE
